@@ -1,0 +1,22 @@
+{
+  "name": "apprestapi",
+  "version": "1.0.0",
+  "description": "Belajar Membuat REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kenziegadi/apprestapi.git"
+  },
+  "keywords": [
+    "restapi"
+  ],
+  "author": "Sinung",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kenziegadi/apprestapi/issues"
+  },
+  "homepage": "https://github.com/Kenziegadi/apprestapi#readme"
+}
